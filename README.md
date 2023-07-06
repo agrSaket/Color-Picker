@@ -4,6 +4,18 @@ Chrome Extension
 ![Extension Preview](./preview.png)
 
 The Color Picker Chrome Extension is a simple and lightweight tool that allows users to select colors from any webpage using a convenient pop-up color picker.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
 ## Features
 
@@ -16,7 +28,7 @@ The Color Picker Chrome Extension is a simple and lightweight tool that allows u
 
 Follow these steps to install the Color Picker Chrome Extension:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/agrSaket/Color-Picker.git`
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable the Developer mode toggle switch.
 4. Click on "Load unpacked" and select the cloned repository's directory.
@@ -43,10 +55,17 @@ The Color Picker Chrome Extension was developed using the following libraries an
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://www.javascript.com/)
+- [manifest.json](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json) for specifying basic metadata about the extension
 - [Font Awesome](https://fontawesome.com/) for the extension icon
 
 ## Contact
 
 If you have any questions, suggestions, or issues, please feel free to contact me at [saketagrahari.nita@gmail.com](mailto:your-email@example.com).
+
+Project Link: [https://github.com/agrSaket/Color-Picker](https://github.com/agrSaket/color-picker)
+
+## Back to Top
+
+To quickly navigate back to the top of this README file, simply click [here](#features).
 
 ---
