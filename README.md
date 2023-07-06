@@ -66,6 +66,6 @@ Project Link: [https://github.com/agrSaket/Color-Picker](https://github.com/agrS
 
 ## Back to Top
 
-To quickly navigate back to the top of this README file, simply click [here](#features).
+To quickly navigate back to the top of this README file, simply click [here](#color-picker).
 
 ---
